@@ -3,5 +3,4 @@ http://example.com/resources/index.html
 http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/about/index.html
-http://example.com/2024/01/19/hello-world/
 http://example.com/
